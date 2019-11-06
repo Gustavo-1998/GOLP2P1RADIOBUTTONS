@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">P2P1RADIOBUTTONS</string>
+    <string name="radios">Manejos de radios de seleccion</string>
+    <string name="carrera">Selecciona tu carrera.</string>
+    <string name="isc">ISC</string>
+    <string name="tics">TIC´S</string>
+    <string name="ambiental">ING. AMBIENTAL</string>
+    <string name="gastro">LIC. GASTRONOMIA</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="uso">Uso de internet</string>
+    <string name="casa">Casa</string>
+    <string name="escuela">Escuela</string>
+    <string name="trabajo">Trabajo</string>
+</resources>
